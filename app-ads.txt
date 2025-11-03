@@ -3,6 +3,9 @@
 # Admob
 google.com,pub-3554194302092206,DIRECT,f08c47fec0942fa0
 
+# Facebook 
+facebook.com, 2403290579831579, DIRECT, c3e20eee3f780d68
+
 # Liftoff
 vungle.com,5dc9534f674ec70017d0306a,DIRECT,c107d686becd2d77
 sonobi.com,5b003395a5,RESELLER,d1a215d9eb5aee9e
